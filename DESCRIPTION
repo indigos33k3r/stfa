@@ -1,0 +1,17 @@
+Package: stfa
+Type: Package
+Title: Alternative methods for Stochastic Frontier Analysis
+Version: 1.0
+Date: 2018-07-08
+Authors@R: c(person("Javier García Rodríguez",role=c("aut","cre"),email="uo222425@uniovi.es"))
+Author: Javier García Rodríguez [aut, cre]
+Encoding: UTF-8
+Maintainer: Javier García Rodríguez <uo222425@uniovi.es>
+URL: <https://github.com/javiergarcirod/stcfa>
+Description: Alternative methods for Stochastic Frontier Analysis
+License: GPL-3
+Imports: frontier,e1071,Formula,plm,micEcon,lmtest,MASS,lattice,car,moments
+
+
+
+
